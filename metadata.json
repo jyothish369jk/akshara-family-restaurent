@@ -1,0 +1,6 @@
+{
+  "name": "Akshara Family Restaurant",
+  "description": "Authentic Andhra flavors, traditional dum biryanis, sizzling starters, and warm family dining at Balaji Junction, Vizianagaram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
